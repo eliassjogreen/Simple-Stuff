@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"MinValue"
+			],
+			[
+				"max",
+				"MaxValue"
+			],
+			[
+				"aling",
+				"StringAlign"
+			],
+			[
+				"An",
+				"AntiAlias"
+			],
+			[
+				"math",
+				"math.sin	(x)"
+			],
+			[
+				"plane",
+				"planetSize"
+			],
+			[
+				"color",
+				"love.graphics.setColor"
+			],
+			[
+				"grap",
+				"love.graphics.circle"
+			],
+			[
+				"starsize",
+				"starSizeDraw"
+			],
+			[
+				"planet",
+				"planetScene"
+			],
+			[
+				"mouse",
+				"love.mousepressed(x, y, button, istouch)"
+			],
+			[
+				"clima",
+				"planetClimate"
+			],
+			[
+				"within",
+				"withinStarBox"
+			],
+			[
+				"os",
+				"os.time	([table])"
+			],
+			[
+				"rand",
+				"love.math.newRandomGenerator"
+			],
+			[
+				"selected",
+				"selectedImg"
+			],
+			[
+				"mouseani",
+				"mouseAnim"
+			],
+			[
+				"mouseanim",
+				"mouseAnimSheet"
+			],
+			[
+				"func",
+				"function	function"
+			],
+			[
+				"draw",
+				"love.graphics.draw(texture, quad, x, y, r, sx, sy, ox, oy, kx, ky)"
+			],
+			[
+				"mous",
+				"love.mouse"
+			],
+			[
+				"get",
+				"love.graphics.getDimensions()"
+			],
+			[
+				"e",
+				"love.mouse.getPosition()"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"mo",
+				"love.mouse"
+			],
+			[
+				"print",
+				"love.graphics.print(text, x, y, r, sx, sy, ox, oy, kx, ky)"
+			],
+			[
+				"lo",
+				"love"
+			],
+			[
+				"sta",
+				"stars"
+			],
+			[
+				"st",
+				"starsArray"
+			],
+			[
+				"stars",
+				"starsArray"
+			],
+			[
+				"re",
+				"love.graphics.rectangle(mode, x, y, width, height)"
+			],
+			[
+				"moui",
+				"love.mousereleased(x, y, button, istouch)"
+			],
+			[
+				"key",
+				"love.keypressed(key, isrepeat)"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"fu",
+				"function	function"
+			],
+			[
+				"we",
+				"webConsole"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"enter",
+				"enterMode"
+			],
+			[
+				"se",
+				"setPrompt"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"g",
+				"game"
+			],
+			[
+				"new",
+				"drawNewLine"
+			],
+			[
+				"curre",
+				"currentCmd"
+			],
+			[
+				"input",
+				"inputText"
+			],
+			[
+				"inpu",
+				"inputText"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"de",
+				"document"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"on",
+				"onchange	Attr"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"t",
+				"toggleValue"
+			],
+			[
+				"open",
+				"open_file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"love",
+				"Build With: LuaLove - Love2D"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lua ",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"lua love",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Elias/Desktop/kod/SimpleStuff"
+	],
+	"file_history":
+	[
+		"/C/Users/Elias/Desktop/kod/SimpleStuff/RAM/Simple/Ram %.ini",
+		"/C/Users/Elias/Desktop/kod/SimpleStuff/CPU/Simple/CPU.ini",
+		"/C/Users/Elias/Desktop/kod/SimpleStuff/RAM/Simple/Ram % (Bar).ini",
+		"/C/Users/Elias/Desktop/kod/SimpleStuff/CPU/Simple/CPU (Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/Fountain of Colors/Fountain of Colors.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/illustro/System/System.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/Advanced/CPU 8 cores.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/Advanced/CPU 4 cores.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (12H) (Min) (2 lines).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (24H) (Sec).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (24H) (Min).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (12H) (Sec).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/G Drive/Disk (G).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/G Drive/Disk (G) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/F Drive/Disk (F).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/F Drive/Disk (F) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/E Drive/Disk (E).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/E Drive/Disk (E) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/D Drive/Disk (D).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/D Drive/Disk (D) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/C Drive/Disk (C).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/C Drive/Disk (C) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (24H) (Min) (2 lines).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (12H) (Min).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/RAM/Simple/Ram %.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/C Drive/Disk (C) (%).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/D Drive/Disk (C) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/D Drive/Disk (C).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/E Drive/Disk (C) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/E Drive/Disk (C).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/F Drive/Disk (C).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/G Drive/Disk (C) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/G Drive/Disk (C).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/F Drive/Disk (C) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/Disk (C).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk/Disk (C) (+Bar).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Disk.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/RAM/Simple/Ram gb.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Ram.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/RAM/Simple/Ram.ini",
+		"/C/Users/Elias/AppData/Roaming/Rainmeter/Rainmeter.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/Advanced/CPU.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/Simple/CPU.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/AverageCPUUsage.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU 1/CPU1.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU 2/CPU2.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU 3/CPU3.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU 8/CPU8.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU8.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU7.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU6.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU5.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU 4/CPU4.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/ModernGadgets/CPU/CPU.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/CPU4.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/CPU3.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/CPU2.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/CPU1.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/CPU/AvarageCPUUsage.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Cpu.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/ModernGadgets/Config/CPU/Config.ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (24H).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (24H) (S).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (12H).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Clock/Clock (12H) (S).ini",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/SimpleStuff.sublime-project",
+		"/C/Users/Elias/Documents/Rainmeter/Skins/SimpleStuff/Time.ini",
+		"/C/Users/Elias/Desktop/kod/love_lua/test/client.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/test/server.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/LUA HELP FOR MEEEEEEEEEEEEEEEEEEEEEEEEEEE.txt",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/mechanics.txt",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/conf.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/general.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/planetNameGenerator.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/stars.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/planets.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/procedural_game.love/main.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/builds/buildToExeWithConsole.bat",
+		"/C/Users/Elias/Desktop/kod/love_lua/builds/buildToExeWithoutConsole",
+		"/C/Users/Elias/Downloads/orbital-master/orbital-master/main.lua",
+		"/C/Users/Elias/Desktop/kod/love_lua/title Exe game creaton tool.bat",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/User/luaLoveSimple.sublime-build",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/Lua Love/README.md",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/Lua Love/package-metadata.json",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/Lua Love/Indent.tmPreferences",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/Lua Love/LuaLove.sublime-build",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/Lua Love/LuaLove.sublime-completions",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/Lua Love/LuaLove.sublime-settings",
+		"/F/annat/Programmering/Programming lang/rhinolang (JAVASCRIPT)/main.js",
+		"/G/Totally-Epic-Text-Game-Dev/TODO",
+		"/G/Totally-Epic-Text-Game-Dev/js/game.js",
+		"/G/Game/TotallyEpicTextGame.html",
+		"/G/Game/css/main.css",
+		"/G/Game/Engine/functionHandler.js",
+		"/G/Game/Engine/console.js",
+		"/G/Game/js/game.js",
+		"/C/Users/Elias/AppData/Local/Temp/Temp1_console_v2 (1).zip/console/js/console.js",
+		"/G/Game/js/console.js",
+		"/G/Game/js/functionHandler.js",
+		"/G/TextGame/js/console.js",
+		"/G/TextGame/TotallyEpicTextGame.html",
+		"/G/TextGame/css/main.css",
+		"/G/TextGame/style.css",
+		"/G/TextGame/console.js",
+		"/G/TextGame/textGame.js",
+		"/G/CFG edit/style.css",
+		"/G/CFG edit/cfgEdit.html",
+		"/G/CFG edit/script.js",
+		"/G/CFG edit/reset.css",
+		"/C/Users/Elias/Downloads/913/css/reset.css",
+		"/C/Users/Elias/Downloads/913/css/913.css",
+		"/C/Users/Elias/AppData/Local/Temp/Temp1_913.zip/css/913.css",
+		"/C/Users/Elias/Documents/My Games/Age of Empires 3/RM3/Age3RMamazonia.dmp.txt",
+		"/F/Programmering/Programming lang/test/png_lang/png.js",
+		"/C/Users/Elias/Desktop/tes_website/template.html",
+		"/C/Users/Elias/Desktop/tes_website/games.html",
+		"/C/Users/Elias/Desktop/tes_website/donate.html",
+		"/C/Users/Elias/Desktop/tes_website/style.css",
+		"/C/Users/Elias/Desktop/tes_website/links.html",
+		"/C/Users/Elias/Desktop/tes_website/home.html",
+		"/C/Users/Elias/Desktop/tes_website/info.html",
+		"/F/snake(python_based_programming_lan)/test.snak",
+		"/F/snake(python_based_programming_lan)/snake.py",
+		"/C/Users/Elias/Documents/captions.sbv",
+		"/C/Users/Elias/Desktop/snake(python_based_programming_lan)/test.snak",
+		"/C/Users/Elias/Desktop/snake(python_based_programming_lan)/snake.py",
+		"/C/Users/Elias/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Elias/Desktop/Unturned server/Unturned_Data/Managed/MessageAnnouncer.dll"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"426",
+			"C:",
+			"200",
+			"40",
+			"]\n",
+			"{}",
+			"end",
+			"ShowFps",
+			"rnGen",
+			"rng",
+			"()",
+			"starpos",
+			"vesti",
+			"planetClimate",
+			"starType",
+			"starSize",
+			"love.math.random",
+			"startype",
+			"()\n",
+			"		\n",
+			"lg",
+			"love.graphics",
+			"console",
+			"clear",
+			"draw",
+			"charwidth",
+			"PROMPT",
+			"e",
+			"prompt",
+			"c:\\",
+			"<br>",
+			"}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/luaLoveSimple.sublime-build",
+	"project": "SimpleStuff.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
